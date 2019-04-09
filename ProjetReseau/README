@@ -1,0 +1,14 @@
+BOMBERMAN EN RESEAU
+
+
+Test du projet
+
+-	Lancer le serveur soit par le jar « Serveur », soit en exécutant le main du serveur (ServerMain dans le package SERVEURTest) mais il est préférable de le faire par la deuxième option (sans le jar) pour voir les modifications dans le serveur.
+-	Lancer le client par le jar nommé « Client ».
+-	Le port utilisé peut être spécifié en ligne de commande sinon, il y a un port par défaut.
+-	Si le port par défaut ne fonctionne plus du à une mal fermeture, il faut spécifier un nouveau port en ligne de commande
+
+-	Tester.
+
+-	 Pour un second ou plusieurs tests qui implique d’arrêter le serveur et le jeu, veillez à bien fermer/arrêter le serveur afin de ne pas perdre le port et être obligé de changer.
+
